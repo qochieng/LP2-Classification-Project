@@ -2,8 +2,9 @@
 A Machine Learning project that analyzes a Telco churn data to train our program and help answer a few questions.
 
 
+## Features Explanation:
 
-The following describes the columns present in the data.
+ The following describes the columns present in the data.
 
 * Gender -- Whether the customer is a male or a female
 * SeniorCitizen -- Whether a customer is a senior citizen or not
@@ -37,3 +38,27 @@ The following describes the columns present in the data.
 4) What is the percentage breakdown of customers who have left the company? (Pie chart)
 5) Is there a correlation between total charges and the type of contract? (Bar chart)
 6) How does the churn rate vary based on the duration of customer subscription (tenure)?
+
+Outline:
+
+Business Understanding:
+
+    1)  Explanation of features
+    2)  Hypothesis (Null and Alternate)
+    3)  Analytical questions
+Data Understanding:
+
+    1) Importation
+    2) Load Dataset
+    3) EDA
+    4) Answer Analytical questions
+    5) Test Hypothesis
+    6) Give your insights
+Data Preparation:
+
+    1) Split data into X,y
+    2) Pipeline Creation
+    3) Encode
+    4) Split data into training and testing
+    
+Modelling and Evaluation:
