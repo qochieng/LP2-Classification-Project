@@ -1,5 +1,5 @@
 # LP2-Classification-Project
-A Machine Learning project that analyzes a Telco churn data to train our program and help answer a few questions.
+A Machine Learning project that analyzes a Telco churn data to train our program and help answer a few questions. Churn rate in this case means the rate of customers that leave or stop using a company's products and services. The main goal is to determine what percentage of customers leave and ideally the factors that contribute to the churn. The end goal is to improve customer retention by analyzing the factors contributing to the churn rate.
 
 
 ## Features Explanation:
