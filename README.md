@@ -64,10 +64,13 @@ Data Preparation:
 Modelling and Evaluation:
 
 License:
+
 MIT
 
 References:
 
-https://scikit-learn.org/
-Pandas documentation
-W3Schools
+* https://scikit-learn.org/
+* Pandas documentation
+* W3Schools
+* simplilearn.com/tutorials/machine-learning-tutorial/classification-in-machine-learning
+* analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
