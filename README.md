@@ -65,11 +65,11 @@ Modelling and Evaluation:
 
 ## Tools for the Project
 
-Python programming
-Visual Studio environment
-Pandas
-Matplotlib and Seaborn for the plotting
-Tableau for dashboard creation
+* Python programming
+* Visual Studio environment
+* Pandas
+* Matplotlib and Seaborn for the plotting
+* Tableau for dashboard creation
 
 ## License:
 
