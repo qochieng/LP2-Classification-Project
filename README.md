@@ -39,7 +39,7 @@ A Machine Learning project that analyzes a Telco churn data to train our program
 5) Is there a correlation between total charges and the type of contract? (Bar chart)
 6) How does the churn rate vary based on the duration of customer subscription (tenure)?
 
-Outline:
+## Outline:
 
 Business Understanding:
 
@@ -63,11 +63,19 @@ Data Preparation:
     
 Modelling and Evaluation:
 
-License:
+## Tools for the Project
+
+* Python programming
+* Visual Studio environment
+* Pandas
+* Matplotlib and Seaborn for the plotting
+* Tableau for dashboard creation
+
+## License:
 
 MIT
 
-References:
+## References:
 
 * https://scikit-learn.org/
 * Pandas documentation
